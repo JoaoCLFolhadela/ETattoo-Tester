@@ -1,4 +1,6 @@
-# ETattoo-Tester
+# E-Tattoo Tester
+
+The present repository contains the code developed during my master's thesis "Intelligent Self-Powered E-Tattoo for Human-Machine Interaction".
 
 ## Overview
 
